@@ -1,0 +1,8 @@
+ "name": "first_micro",
+        "id": "d1ad8193-e88f-4ec5-a08f-ca4e7d53f245",
+        "project": "d0inv9a4",
+        "runtime": "nodejs14.x",
+        "endpoint": "https://ngco2w.deta.dev",
+        "region": "ap-south-1",
+        "visor": "disabled",
+        "http_auth": "disabled"
